@@ -4,14 +4,6 @@
 后端：Java 项目信息的注册 审核 展示 检索 （Java go  python nodejs ）调合约的 web3j
 thegraph automation
 
-
-# 声明
-该项目仅用于教学用途，不存在商业用途。
-
-
-# 演示地址
-https://c2-n-launchpad.vercel.app/
-
 # 产品需求
 内部版本没有kyc，注册流程
 C2N launchpad是一个区块链上的一个去中心化发行平台，专注于启动和支持新项目。它提供了一个平台，允许新的和现有的项目通过代币销售为自己筹集资金，同时也为投资者提供了一个参与初期项目投资的机会。下面是C2N launchpad产品流程的大致分析：
